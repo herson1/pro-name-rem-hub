@@ -5,6 +5,7 @@ ESSE AQUI É O desenvolvedor INICIAL..
 
 
 
+
 FUNCTION (int i)  {
   if (i == 1)
     return true;
@@ -15,3 +16,6 @@ FUNCTION (int i)  {
 
 
 asjhdakjdhkajdhakjdh
+
+alteração o desenv 1
+
