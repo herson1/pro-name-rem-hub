@@ -20,9 +20,9 @@ asjhdakjdhkajdhakjdh
 alteração o desenv 1
 
 
-
+<<<<<<< HEAD
 ultima alteração do desenvolvedor 2
-
+=======
 <?php olha esse alteração aqui?>
 
 
@@ -32,5 +32,5 @@ ultima alteração do desenvolvedor 2
 
 
 desenvolvedor 1 acaba de alterar algo...................
-
+>>>>>>> 118e7f5851ac45fc2b27daa52501f9b3dc7cef06
 
